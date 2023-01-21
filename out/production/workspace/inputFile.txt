@@ -1,0 +1,4 @@
+This is an example for FileReader class in java.io package.
+
+Method Declaration:
+public class FileReader extends InputStreamReader  
