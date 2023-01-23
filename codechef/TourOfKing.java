@@ -1,3 +1,5 @@
+package codechef;
+
 public class TourOfKing {
     /* package codechef; // don't place package name! */
 
