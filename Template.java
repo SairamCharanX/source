@@ -5,9 +5,9 @@ public class Template {
 
 
         Scanner s = new Scanner(System.in);
-        int T = s.nextInt();
+        int cases = s.nextInt();
 
-        for (int index = 0;index < T;index++){
+        for (int index = 0;index < cases;index++){
 
         }
 
