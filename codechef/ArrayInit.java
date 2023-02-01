@@ -25,9 +25,7 @@ class ArrayInit
             if(weekPoints.get(i)>=10){
                 count++;
             }
-
         }
-
         System.out.println(count);
     }
 }
