@@ -12,7 +12,6 @@ public class Template {
         }
 
 
-        //TODO: macro for sout
-
+        //TODO: Create macros for sysout and others
     }
 }
