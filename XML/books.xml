@@ -7,7 +7,6 @@
         <year>2005</year>
         <price>30.00</price>
     </book>
-
     <book category="DOTNET">
         <title lang="en">Learn .Net in 24 hours</title>
         <author>Peter</author>
