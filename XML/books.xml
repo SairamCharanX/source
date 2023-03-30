@@ -14,7 +14,6 @@
         <year>2011</year>
         <price>40.50</price>
     </book>
-
     <book category="XML">
         <title lang="en">Learn XQuery in 24 hours</title>
         <author>Robert</author>
