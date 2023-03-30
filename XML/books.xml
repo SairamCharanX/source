@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <books>
-
     <book category="JAVA">
         <title lang="en">Learn Java in 24 Hours</title>
         <author>Robert</author>
