@@ -15,7 +15,7 @@ class RightThere
         for (int index = 0;index < cases;index++){
             int n = s.nextInt();
             int x = s.nextInt();
-            
+
             if(n<=x)
             System.out.println("YES");
             else
