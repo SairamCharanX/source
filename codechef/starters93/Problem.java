@@ -16,27 +16,27 @@ class Problem
             int alice = s.nextInt();
             int bob = s.nextInt();
             boolean flag = false;
-            
+
             if(alice!=bob){
-            
+
             int tempAliceOne = alice;
             int tempBobOne = bob;
-            
+
             tempAliceOne-=1;
             tempBobOne+=1;
-            
+
             if(tempAliceOne==tempBobOne)
             flag = true;
-            
+
             int tempAliceTwo = alice;
             int tempBobTwo = bob;
-            
+
             tempBobTwo-=1;
             tempAliceTwo +=3;
-            
+
             if(tempAliceTwo==tempBobTwo)
             flag = true;
-            
+
             if(flag)
             System.out.println("YES");
             else
@@ -44,7 +44,7 @@ class Problem
             }
             else
             System.out.println("YES");
-            
+
         }
 	}
 }
