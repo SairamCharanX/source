@@ -15,9 +15,9 @@ class SevenRings
         for (int index = 0;index < cases;index++){
             long n = s.nextLong();
             long x = s.nextLong();
-            
+
             long totalCost = n*x;
-            
+
             if(totalCost>=10000 && totalCost<=99999)
             System.out.println("YES");
             else
