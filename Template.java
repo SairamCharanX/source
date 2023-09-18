@@ -4,8 +4,8 @@ public class Template {
     public static void main(String[] args) {
 
 
-        Scanner s = new Scanner(System.in);
-        int cases = s.nextInt();
+        Scanner scanner = new Scanner(System.in);
+        int cases = scanner.nextInt();
 
         for (int index = 0;index < cases;index++){
 
